@@ -1,6 +1,6 @@
 # 311 Resolution Analysis
 
-### Note: All Analysis Conducted by New York City Counsel. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/311_analysis
+### Note: All Analysis Conducted by New York City Council. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/311_analysis
 
 ## Objective
 
