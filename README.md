@@ -1,5 +1,7 @@
 # 311 Resolution Analysis
 
+### Note: All Analysis Conducted by New York City Counsel. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/311_analysis
+
 ## Objective
 
 Utilize 311 data, publicly available via New York City's Open Data Portal, to analyze the efficiency in agency's responses to service requests
